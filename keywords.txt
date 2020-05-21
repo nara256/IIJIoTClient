@@ -1,0 +1,5 @@
+IIJIoTClient	KEYWORD1
+#
+setDebugSerial	KEYWORD2
+sendByUdp   KEYWORD2
+sendByHttp  KEYWORD2
